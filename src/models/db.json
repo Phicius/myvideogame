@@ -1,0 +1,338 @@
+{
+  "pokemons": [
+    {
+      "id": "1",
+      "name": "Morpion",
+      "hp": "100",
+      "cp": 10,
+      "picture": "https://cdn-icons-png.flaticon.com/512/3050/3050159.png",
+      "types": [
+        "Jeu",
+        "Classique"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Pac-Man",
+      "hp": 150,
+      "cp": 20,
+      "picture": "https://cdn-icons-png.flaticon.com/512/3050/3050159.png",
+      "types": [
+        "Arcade",
+        "Jeu"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Tetris",
+      "hp": 120,
+      "cp": 15,
+      "picture": "https://cdn-icons-png.flaticon.com/512/3050/3050159.png",
+      "types": [
+        "Puzzle",
+        "Jeu"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Chess",
+      "hp": 200,
+      "cp": 30,
+      "picture": "https://cdn-icons-png.flaticon.com/512/3050/3050159.png",
+      "types": [
+        "Stratégie",
+        "Jeu"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Flappy Bird",
+      "hp": 80,
+      "cp": 8,
+      "picture": "https://cdn-icons-png.flaticon.com/512/3050/3050159.png",
+      "types": [
+        "Casual",
+        "Mobile"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Snake",
+      "hp": 90,
+      "cp": 12,
+      "picture": "https://cdn-icons-png.flaticon.com/512/3050/3050159.png",
+      "types": [
+        "Arcade",
+        "Classique"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "2048",
+      "hp": 110,
+      "cp": 14,
+      "picture": "https://cdn-icons-png.flaticon.com/512/3050/3050159.png",
+      "types": [
+        "Puzzle",
+        "Casual"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Sudoku",
+      "hp": 130,
+      "cp": 16,
+      "picture": "https://cdn-icons-png.flaticon.com/512/3050/3050159.png",
+      "types": [
+        "Puzzle",
+        "Logique"
+      ]
+    }
+  ],
+  "gameRooms": [
+    {
+      "id": "BC20RU3Y",
+      "players": [
+        {
+          "id": "on8z58n",
+          "name": "Joueur 470"
+        }
+      ],
+      "board": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "currentTurn": "X",
+      "winner": null,
+      "createdAt": "2026-01-11T15:51:58.535Z"
+    },
+    {
+      "id": "XGZGSOYS",
+      "players": [
+        {
+          "id": "6em8m31",
+          "name": "a"
+        }
+      ],
+      "board": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "currentTurn": "X",
+      "winner": null,
+      "createdAt": "2026-01-11T15:52:02.207Z"
+    },
+    {
+      "id": "6QWH0HSD",
+      "players": [],
+      "board": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "currentTurn": "X",
+      "winner": null,
+      "createdAt": "2026-01-11T15:55:17.359Z"
+    },
+    {
+      "id": "HKWR595D",
+      "players": [],
+      "board": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "currentTurn": "X",
+      "winner": null,
+      "createdAt": "2026-01-11T15:56:54.263Z"
+    },
+    {
+      "id": "WUKH78L7",
+      "players": [],
+      "board": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "currentTurn": "X",
+      "winner": null,
+      "createdAt": "2026-01-11T15:57:51.744Z"
+    },
+    {
+      "id": "RLR3XAD8",
+      "players": [],
+      "board": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "currentTurn": "X",
+      "winner": null,
+      "createdAt": "2026-01-11T15:58:51.952Z"
+    },
+    {
+      "id": "S1A13JC5",
+      "players": [],
+      "board": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "currentTurn": "X",
+      "winner": null,
+      "createdAt": "2026-01-11T15:59:35.336Z"
+    },
+    {
+      "id": "ABHHFAGG",
+      "players": [],
+      "board": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "currentTurn": "X",
+      "winner": null,
+      "createdAt": "2026-01-11T16:00:17.984Z"
+    },
+    {
+      "id": "3GM6BFRS",
+      "players": [],
+      "board": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "currentTurn": "X",
+      "winner": null,
+      "createdAt": "2026-01-11T16:01:28.384Z"
+    },
+    {
+      "id": "VWI1639I",
+      "players": [],
+      "board": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "currentTurn": "X",
+      "winner": null,
+      "createdAt": "2026-01-11T16:02:02.192Z"
+    },
+    {
+      "id": "XTQCC7G3",
+      "players": [
+        {
+          "id": "kkzpwfk",
+          "name": "dd"
+        },
+        {
+          "id": "ncwmlfy",
+          "name": "zz"
+        }
+      ],
+      "board": [
+        "X",
+        null,
+        null,
+        null,
+        "O",
+        null,
+        null,
+        null,
+        null
+      ],
+      "currentTurn": "X",
+      "winner": null,
+      "createdAt": "2026-01-11T16:04:18.568Z"
+    },
+    {
+      "id": "5NJPHQPL",
+      "players": [
+        {
+          "id": "3c256pa",
+          "name": "aa"
+        },
+        {
+          "id": "ccw4yak",
+          "name": "zz"
+        }
+      ],
+      "board": [
+        "X",
+        null,
+        "X",
+        null,
+        "O",
+        null,
+        null,
+        null,
+        null
+      ],
+      "currentTurn": "O",
+      "winner": null,
+      "createdAt": "2026-01-11T16:06:48.832Z"
+    }
+  ]
+}
